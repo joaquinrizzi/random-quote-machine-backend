@@ -8,7 +8,3 @@ class Quote (models.Model):
 
     def __str__(self):
         return self.content
-
-    class Meta:
-        verbose_name = 'Quote'
-        verbose_name_plural = 'Quotes'
