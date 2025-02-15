@@ -1,0 +1,27 @@
+
+[
+    {
+        "model": "api.quote",
+        "pk": 1,
+        "fields": {
+            "content": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs"
+        }
+    },
+    {
+        "model": "api.quote",
+        "pk": 2,
+        "fields": {
+            "content": "The best way to predict the future is to create it.",
+            "author": "Peter Drucker"
+        }
+    },
+    {
+        "model": "api.quote",
+        "pk": 3,
+        "fields": {
+            "content": "The only way to make sense out of change is to plunge into it.",
+            "author": "Heraclitus"
+        }
+    }
+]
